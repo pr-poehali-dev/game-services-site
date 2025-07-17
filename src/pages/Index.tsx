@@ -65,7 +65,7 @@ const Index = () => {
   const stats = [
     { label: "Довольных клиентов", value: "50,000+", icon: "Users" },
     { label: "Завершенных заказов", value: "200,000+", icon: "ShoppingCart" },
-    { label: "Поддерживаемых игр", value: "150+", icon: "Gamepad2" },
+    { label: "Поддерживаемых игр", value: "2", icon: "Gamepad2" },
     { label: "Лет опыта", value: "5+", icon: "Clock" },
   ];
 
