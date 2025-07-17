@@ -77,7 +77,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <div className="text-2xl font-bold text-neon-green animate-glow">
-                GameBoost
+                AliveyPay
               </div>
               <Badge variant="outline" className="border-neon-green text-neon-green">
                 PRO
@@ -252,7 +252,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
-              <div className="text-2xl font-bold text-neon-green">GameBoost</div>
+              <div className="text-2xl font-bold text-neon-green">AliveyPay</div>
               <Badge variant="outline" className="border-neon-green text-neon-green">
                 PRO
               </Badge>
@@ -264,7 +264,7 @@ const Index = () => {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gaming-light text-center text-muted-foreground">
-            <p>© 2024 GameBoost. Все права защищены.</p>
+            <p>© 2024 AliveyPay. Все права защищены.</p>
           </div>
         </div>
       </footer>
